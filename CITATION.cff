@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ' PowerLaw_Graph_Extraction_and_Direct_Diagonalisation'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Pietro
+    family-names: Valigi
+    email: pietro.valigi95@gmail.com
+    affiliation: Sapienza University of Rome
+    orcid: 'https://orcid.org/0009-0007-1593-1325'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17476638
+repository-code: >-
+  https://github.com/kingofbroccoli/PowerLaw_Graph_Extraction_and_Direct_Diagonalisation/tree/v1.0
+license: GPL-3.0
